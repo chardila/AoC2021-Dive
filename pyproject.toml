@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aoc2021-sonarsweep"
+name = "aoc2021-dive"
 version = "0.1.0"
 description = ""
 authors = ["Carlos Ardila <carlos.ardila@appgate.com>"]
